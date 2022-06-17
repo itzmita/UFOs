@@ -53,7 +53,7 @@ For example if you search by shape triangle and state as ca the following shows 
 
 ## Summary
 ### Drawbacks:
-Unfortunately, the page has few drawbacks of which one is 
+Unfortunately, the page has few drawbacks such as
 * The source data is taken from data.js which is static. It would be nice if we can connect to a live website and scrape the data and then present in the screen. 
 * The search can be made case insensitive for ease of users.
 
